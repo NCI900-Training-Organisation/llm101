@@ -17,7 +17,7 @@ This should be the place where you store all your training material.
 The material and data for today’s session are available in our public GitHub repository, clone it to the folder above.   
 ```bash 
 cd /scratch/vp91/$USER    
-git clone https://github.com/zora-wuw/llm101.git
+git clone https://github.com/NCI900-Training-Organisation/llm101.git
 ```   
     
 
