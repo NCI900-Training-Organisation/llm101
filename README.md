@@ -2,7 +2,8 @@
 (Adapted from Argonne National Laboratory)   
 
 
-The  workshop material will rely on Jupyter Notebooks which are targeted for running on [Google's Colaboratory Platform](https://colab.research.google.com).  
+The  workshop material will use Jupyter Notebooks which can be run on your local machine or on [Google's Colaboratory Platform](https://colab.research.google.com).  
+To run the notebooks on Gadi, please refer to the [ARE_JupyterLab_Guide.md](ARE_JupyterLab_Guide.md) in this repo.
 
 <details open>
     <summary><b>Tutorials</b></summary>
