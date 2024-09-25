@@ -35,9 +35,12 @@ To run the notebooks on Gadi, please refer to the [ARE_JupyterLab_Guide.md](ARE_
 >     <details closed><summary><code>Llama-2 Access Instructions</code></summary>
 > 
 >     - Visit this https://huggingface.co/meta-llama/Llama-2-7b-hf and request access to the model
->     - vist meta website and accept the terms https://ai.meta.com/resources/models-and-libraries/llama-downloads/
+>     - Visit meta website and accept the terms https://ai.meta.com/resources/models-and-libraries/llama-downloads/
 >     - Note: Your Hugging Face account email address MUST match the email you provide on the Meta website, or your request will not be approved.
 > 
->     </details>
+>     </details>  
 
+  
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/orgs/NCI900-Training-Organisation/repositories">NCI Training</a> by <span property="cc:attributionName">NCI Training Team</span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
